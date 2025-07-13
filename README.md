@@ -2,6 +2,8 @@
 
 A Streamlit-based RAG (Retrieval-Augmented Generation) chatbot for the [Rational Reminder podcast](https://rationalreminder.ca). This application allows users to select episodes and chat with an AI about the episode content.
 
+![Rational Reminder RAG Chatbot Landing Page](img/landing-page.png "Landing Page Screenshot")
+
 ## ✨ Features
 
 - **📚 Episode Selection**: Browse and select episodes from the Rational Reminder podcast directory
